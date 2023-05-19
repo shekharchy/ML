@@ -1,0 +1,9 @@
+gray from rgb: .3r+.6g+.1b
+
+red=red-gray
+green=green-gray
+blue=blue-gray
+
+cyan=gray-red
+m=gray-green
+y=gray-blue

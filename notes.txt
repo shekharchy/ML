@@ -1,0 +1,24 @@
+args and kwargs
+
+fxns: 
+string:upper,lower,find,split,join,format,count,strip,replace
+
+list: append,sort,count,copy,insert,remove,index,pop
+
+tuple: count, index
+
+dict: keys, values, update, get, pop
+
+set: add, difference, union, pop, remove
+
+python functions:
+
+these can be assigned to a value
+these can be taken as an input in another function.
+these can be defined inside another function
+return a function as output from another function
+
+lambda function 
+
+dunder: things starting with __ and ending with __ (double underscore)
+
